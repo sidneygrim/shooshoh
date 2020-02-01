@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xahhathith.craftsmanshipof.software/sitemap.xml
